@@ -3,25 +3,18 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node app.js",
-    "worker":"node app.js"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/ASIAZURUR/challenge.git"
-  },
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/ASIAZURUR/challenge/issues"
-  },
-  "homepage": "https://github.com/ASIAZURUR/challenge#readme",
-  "dependencies": {
-    "ejs": "^3.1.6",
-    "express": "^4.17.1",
-    "mongoose": "^6.1.1"
+  
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1",
+      "start": "node app.js",
+      "worker":"node app.js"
+     
+    },
+    "author": "Asia Zurur",
+    "license": "ISC",
+    "dependencies": {
+      "ejs": "^3.1.6",
+      "express": "^4.17.1"
+      
+    }
   }
-}
-
